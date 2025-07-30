@@ -1,50 +1,52 @@
 # 🧠 QuizMasterJS
 
-> A responsive and interactive JavaScript quiz web app to test your frontend knowledge!
+> A responsive and interactive JavaScript quiz web app to test your frontend skills.
 
 ![Quiz Screenshot](screenshot.png)
 
-## 📌 Project Description
+---
 
-**QuizMasterJS** is a browser-based multiple-choice quiz app developed using **HTML**, **CSS**, and **Vanilla JavaScript**. It allows users to attempt a series of technical questions and shows the final score at the end with a clean and responsive UI.
+## 📌 About the Project
 
-This project is beginner-friendly and ideal for those learning JavaScript DOM manipulation and event handling.
+**QuizMasterJS** is a browser-based quiz application made using **HTML**, **CSS**, and **Vanilla JavaScript**. It features multiple-choice questions, dynamic question rendering, real-time score tracking, and a final result screen.
+
+This project is perfect for frontend beginners to learn DOM manipulation, event handling, and basic project structuring.
 
 ---
 
 ## 🚀 Features
 
-- ✅ 5 interactive quiz questions
-- ✅ Multiple-choice answer selection
-- ✅ Real-time scoring
-- ✅ Dynamic rendering of questions and options
-- ✅ Final score display with replay option
-- ✅ Fully responsive design
+- 🔘 Multiple-choice quiz questions
+- 📊 Real-time score calculation
+- 🔄 Play Again feature after completion
+- 📱 Responsive and clean UI
+- 💡 Beginner-friendly code
 
 ---
 
-## 💡 How to Run Locally
+## 📁 Project Structure
 
-1. Clone or download this repo
-2. Open `index.html` in your browser
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ How to Use
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
----
-
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+1. Clone or download this repository.
+2. Open `index.html` in any browser.
+3. Take the quiz and view your score!
 
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Abhishk ](https://github.com/abhishekmatwan)
+
+---
+
+## 🙌 Acknowledgements
+
+- Built as a practice project using concepts learned from YouTube tutorials.
+
+
+
 
