@@ -2,7 +2,17 @@
 
 > A responsive and interactive JavaScript quiz web app to test your frontend skills.
 
-![Quiz Screenshot](screenshot.png)
+## 🖼️ Screenshots
+
+### ▶️ Start Screen
+![Start Screen](screenshot1.png)
+
+### 🧩 Quiz in Progress
+![Quiz Question](screenshot2.png)
+
+### 🏁 Result Screen
+![Result](screenshot3.png)
+
 
 ---
 
