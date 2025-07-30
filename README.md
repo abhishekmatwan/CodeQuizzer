@@ -1,8 +1,19 @@
 # 🧠 QuizMasterJS
 
 > A responsive and interactive JavaScript quiz web app to test your frontend skills.
+> 
 
 ---
+## 🖼️ Screenshots
+
+### ▶️ Start Screen
+![Start Screen](screenshot-start.png)
+
+### 🧩 Quiz in Progress
+![Quiz Question](screenshot-question.png)
+
+### 🏁 Result Screen
+![Result](screenshot-result.png)
 
 ## 📌 About the Project
 
