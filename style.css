@@ -1,0 +1,93 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Quiz container */
+.quiz-section {
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%;
+}
+
+/* Question styling */
+.question {
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Answer list */
+ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+label {
+  margin-left: 10px;
+  font-size: 1rem;
+  color: #333;
+  cursor: pointer;
+}
+
+/* Submit button */
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+#submit {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#submit:hover {
+  background-color: #45a049;
+}
+
+/* Result section */
+.result {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.reload-button {
+  margin-top: 20px;
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.reload-button:hover {
+  background-color: #1e87dc;
+}
