@@ -2,61 +2,27 @@
 
 > A responsive and interactive JavaScript quiz web app to test your frontend skills.
 
-## 🖼️ Screenshots
-
-### ▶️ Start Screen
-![Start Screen](screenshot1.png)
-
-### 🧩 Quiz in Progress
-![Quiz Question](screenshot2.png)
-
-### 🏁 Result Screen
-![Result](screenshot3.png)
-
-
 ---
 
 ## 📌 About the Project
 
-**QuizMasterJS** is a browser-based quiz application made using **HTML**, **CSS**, and **Vanilla JavaScript**. It features multiple-choice questions, dynamic question rendering, real-time score tracking, and a final result screen.
+**QuizMasterJS** is a browser-based quiz application built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
+It features multiple-choice questions, dynamic rendering, real-time score tracking, and a final result screen.
 
-This project is perfect for frontend beginners to learn DOM manipulation, event handling, and basic project structuring.
+This project is perfect for frontend beginners to learn DOM manipulation, event handling, and project structuring.
 
 ---
 
 ## 🚀 Features
 
-- 🔘 Multiple-choice quiz questions
+- 🔘 Multiple-choice questions
 - 📊 Real-time score calculation
-- 🔄 Play Again feature after completion
+- 🔄 "Play Again" feature
 - 📱 Responsive and clean UI
-- 💡 Beginner-friendly code
+- 💡 Beginner-friendly codebase
 
 ---
 
 ## 📁 Project Structure
-
-
----
-
-## 🛠️ How to Use
-
-1. Clone or download this repository.
-2. Open `index.html` in any browser.
-3. Take the quiz and view your score!
-
----
-
-## 👨‍💻 Author
-
-Made with ❤️ by [Abhishk ](https://github.com/abhishekmatwan)
-
----
-
-## 🙌 Acknowledgements
-
-- Built as a practice project using concepts learned from YouTube tutorials.
-
-
 
 
